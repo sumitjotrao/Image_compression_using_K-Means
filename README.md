@@ -3,5 +3,6 @@
 
 Unsupervised learning algorith K-means is used to compress the image.
 
-![GitHub Logo](Image_compression.png)
+
 ![GitHub Logo](Image_compression_2.png)
+![GitHub Logo](Image_compression.png)
